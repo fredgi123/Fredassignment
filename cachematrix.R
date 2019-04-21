@@ -1,5 +1,5 @@
 
-## There are  2 functions created. The first one store a special matrix and cache its inverse then the second retrieves
+## There are  2 functions created. The first one creates a special matrix and cache its inverse. The second function retrieves
 ## ther inverse if it's been calculated already or computes the inverse otherwise.
 
 ## The first function "makeCacheMatrix" creates a matrix object and caches its inverse.
